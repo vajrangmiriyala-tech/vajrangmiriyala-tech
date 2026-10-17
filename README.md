@@ -46,9 +46,25 @@
 - **[Sonara](https://github.com/vajrangmiriyala-tech/Sonara)** — free, open-source music player for Mac. Vanilla JS + Electron, zero dependencies.
 - **[jenkins-chatops](https://github.com/vajrangmiriyala-tech/jenkins-chatops)** — chat-commands integration for CI/CD, my Open Source OJT project.
 
+## Trophy wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vajrangmiriyala-tech&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophy wall" />
+</div>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vajrangmiriyala-tech&theme=react-dark&hide_border=true" alt="Activity graph" />
+  <br />
+  <img src="https://raw.githubusercontent.com/vajrangmiriyala-tech/vajrangmiriyala-tech/output/github-snake.svg" alt="Contribution snake" />
+</div>
+
 ## Connect with me
 
 <div>
   <a href="https://www.linkedin.com/in/vajrang-miriyala-401649419/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/its.vajrang"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
