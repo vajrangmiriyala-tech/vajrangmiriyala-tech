@@ -10,6 +10,14 @@
   <img src="https://img.shields.io/github/stars/vajrangmiriyala-tech?style=flat&color=ff6b35&label=Stars" alt="Stars" />
 </div>
 
+## GitHub Achievements
+
+<div>
+  <img src="https://img.shields.io/badge/Quickdraw-Earned-ff6b35?style=flat" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Pull_Shark-Earned-ff6b35?style=flat" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/YOLO-Earned-ff6b35?style=flat" alt="YOLO" />
+</div>
+
 ## About me
 
 - Studying at **Polaris School of Technology**, Bengaluru
@@ -37,14 +45,6 @@
 
 - **[Sonara](https://github.com/vajrangmiriyala-tech/Sonara)** — free, open-source music player for Mac. Vanilla JS + Electron, zero dependencies.
 - **[jenkins-chatops](https://github.com/vajrangmiriyala-tech/jenkins-chatops)** — chat-commands integration for CI/CD, my Open Source OJT project.
-
-## GitHub Achievements
-
-<div>
-  <img src="https://img.shields.io/badge/Quickdraw-Earned-ff6b35?style=flat" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/Pull_Shark-Earned-ff6b35?style=flat" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/YOLO-Earned-ff6b35?style=flat" alt="YOLO" />
-</div>
 
 ## Connect with me
 
