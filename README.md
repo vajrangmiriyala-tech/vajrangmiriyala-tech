@@ -57,7 +57,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vajrangmiriyala-tech&theme=react-dark&hide_border=true" alt="Activity graph" />
   <br />
-  <img src="https://raw.githubusercontent.com/vajrangmiriyala-tech/vajrangmiriyala-tech/output/github-snake.svg" alt="Contribution snake" />
 </div>
 
 ## Connect with me
