@@ -9,8 +9,8 @@
 <rect x="101.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="116.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="131.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="130" y="260" font-size="10" fill="#8b949e">Dec</text>
 <rect x="146.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="145" y="260" font-size="10" fill="#8b949e">Dec</text>
 <rect x="161.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="176.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="191.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -35,14 +35,14 @@
 <rect x="416.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="431.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="446.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<rect x="461.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<rect x="461.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#3fb950"/>
 <text x="460" y="260" font-size="10" fill="#8b949e">May</text>
-<rect x="476.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#3fb950"/>
+<rect x="476.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="491.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="506.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="521.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="520" y="260" font-size="10" fill="#8b949e">Jun</text>
 <rect x="536.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="535" y="260" font-size="10" fill="#8b949e">Jun</text>
 <rect x="551.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="566.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="581.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -62,8 +62,8 @@
 <rect x="746.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="761.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="776.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<rect x="791.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<rect x="791.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
 <text x="790" y="260" font-size="10" fill="#8b949e">Oct</text>
-<rect x="806.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
-<text x="40" y="284" font-size="13" fill="#8b949e">133 contributions in the last 52 weeks</text>
+<rect x="806.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="40" y="284" font-size="13" fill="#8b949e">142 contributions in the last 52 weeks</text>
 </svg>
