@@ -30,7 +30,6 @@
 <div>
   <img src="https://img.shields.io/badge/Quickdraw-Earned-ff6b35?style=flat" alt="Quickdraw" />
   <img src="https://img.shields.io/badge/YOLO-Earned-ff6b35?style=flat" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Pull_Shark-Locked-555?style=flat" alt="Pull Shark" />
 </div>
 
 <div align="center">
