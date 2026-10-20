@@ -64,6 +64,6 @@
 <rect x="776.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="791.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
 <text x="790" y="260" font-size="10" fill="#8b949e">Oct</text>
-<rect x="806.0" y="218.8" width="12.5" height="21.2" rx="2.5" fill="#3fb950"/>
-<text x="40" y="284" font-size="13" fill="#8b949e">165 contributions in the last 52 weeks</text>
+<rect x="806.0" y="213.3" width="12.5" height="26.7" rx="2.5" fill="#3fb950"/>
+<text x="40" y="284" font-size="13" fill="#8b949e">171 contributions in the last 52 weeks</text>
 </svg>
