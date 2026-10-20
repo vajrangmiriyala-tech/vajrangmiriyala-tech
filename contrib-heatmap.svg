@@ -374,17 +374,17 @@
 <rect x="795" y="115" width="11" height="11" rx="2.5" fill="#262e38"/>
 <rect x="795" y="130" width="11" height="11" rx="2.5" fill="#262e38"/>
 <rect x="795" y="145" width="11" height="11" rx="2.5" fill="#0e4429"/>
-<rect x="795" y="160" width="11" height="11" rx="2.5" fill="#006d32"/>
+<rect x="795" y="160" width="11" height="11" rx="2.5" fill="#0e4429"/>
 <rect x="795" y="175" width="11" height="11" rx="2.5" fill="#39d353"/>
 <rect x="795" y="190" width="11" height="11" rx="2.5" fill="#39d353"/>
-<rect x="810" y="100" width="11" height="11" rx="2.5" fill="#39d353"/>
-<rect x="810" y="115" width="11" height="11" rx="2.5" fill="#26a641"/>
+<rect x="810" y="100" width="11" height="11" rx="2.5" fill="#26a641"/>
+<rect x="810" y="115" width="11" height="11" rx="2.5" fill="#39d353"/>
 <rect x="810" y="130" width="11" height="11" rx="2.5" fill="#262e38"/>
 <rect x="810" y="145" width="11" height="11" rx="2.5" fill="#262e38"/>
 <rect x="810" y="160" width="11" height="11" rx="2.5" fill="#262e38"/>
 <rect x="810" y="175" width="11" height="11" rx="2.5" fill="#262e38"/>
 <rect x="810" y="190" width="11" height="11" rx="2.5" fill="#262e38"/>
-<text x="24" y="229" font-size="13" fill="#8b949e">155 contributions in the last year</text>
+<text x="24" y="229" font-size="13" fill="#8b949e">165 contributions in the last year</text>
 <text x="676" y="229" font-size="11" fill="#8b949e">Less</text>
 <rect x="710" y="218" width="11" height="11" rx="2.5" fill="#262e38"/>
 <rect x="725" y="218" width="11" height="11" rx="2.5" fill="#0e4429"/>
