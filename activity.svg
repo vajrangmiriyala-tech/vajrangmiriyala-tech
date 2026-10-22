@@ -14,8 +14,8 @@
 <rect x="161.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="176.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="191.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="190" y="260" font-size="10" fill="#8b949e">Jan</text>
 <rect x="206.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="205" y="260" font-size="10" fill="#8b949e">Jan</text>
 <rect x="221.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="236.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="251.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -35,8 +35,8 @@
 <rect x="416.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="431.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="446.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="445" y="260" font-size="10" fill="#8b949e">May</text>
 <rect x="461.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#3fb950"/>
-<text x="460" y="260" font-size="10" fill="#8b949e">May</text>
 <rect x="476.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="491.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="506.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -62,8 +62,8 @@
 <rect x="746.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="761.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="776.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="775" y="260" font-size="10" fill="#8b949e">Oct</text>
 <rect x="791.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
-<text x="790" y="260" font-size="10" fill="#8b949e">Oct</text>
-<rect x="806.0" y="213.3" width="12.5" height="26.7" rx="2.5" fill="#3fb950"/>
-<text x="40" y="284" font-size="13" fill="#8b949e">171 contributions in the last 52 weeks</text>
+<rect x="806.0" y="208.7" width="12.5" height="31.3" rx="2.5" fill="#3fb950"/>
+<text x="40" y="284" font-size="13" fill="#8b949e">176 contributions in the last 52 weeks</text>
 </svg>
