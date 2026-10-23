@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vajrang%20Miriyala&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%C2%B7%20Builder%20%C2%B7%20Open%20Source&descAlignY=60&descSize=18" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vajrang+%F0%9F%91%8B;CS+student+%40+Polaris+School+of+Technology;Building+Sonara+%E2%80%94+a+free%2C+open-source+Mac+music+app;Open+Source+contributor+%7C+GSoC+2027+aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Vajrang+%F0%9F%91%8B;CS+student+%40+Polaris+School+of+Technology;Building+Sonara+%E2%80%94+a+free%2C+open-source+Mac+music+app;Open+Source+contributor+%7C+GSoC+2027+aspirant" alt="Typing SVG" />
 </div>
 
 <div align="center">
