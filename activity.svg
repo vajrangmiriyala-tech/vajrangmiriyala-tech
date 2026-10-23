@@ -3,8 +3,8 @@
 <text x="24" y="72" font-size="14" fill="#3fb950"><tspan font-weight="bold">vajrang@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan> ./activity.sh</text>
 <rect x="41.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="56.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="55" y="260" font-size="10" fill="#8b949e">Nov</text>
 <rect x="71.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="70" y="260" font-size="10" fill="#8b949e">Nov</text>
 <rect x="86.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="101.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="116.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -51,8 +51,8 @@
 <rect x="611.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="626.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="641.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="640" y="260" font-size="10" fill="#8b949e">Aug</text>
 <rect x="656.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="655" y="260" font-size="10" fill="#8b949e">Aug</text>
 <rect x="671.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="686.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="701.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -64,6 +64,6 @@
 <rect x="776.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <text x="775" y="260" font-size="10" fill="#8b949e">Oct</text>
 <rect x="791.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
-<rect x="806.0" y="208.7" width="12.5" height="31.3" rx="2.5" fill="#3fb950"/>
-<text x="40" y="284" font-size="13" fill="#8b949e">176 contributions in the last 52 weeks</text>
+<rect x="806.0" y="204.0" width="12.5" height="36.0" rx="2.5" fill="#3fb950"/>
+<text x="40" y="284" font-size="13" fill="#8b949e">181 contributions in the last 52 weeks</text>
 </svg>
