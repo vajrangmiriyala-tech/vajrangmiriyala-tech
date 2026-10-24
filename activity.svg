@@ -19,13 +19,13 @@
 <rect x="221.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="236.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="251.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="250" y="260" font-size="10" fill="#8b949e">Feb</text>
 <rect x="266.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="265" y="260" font-size="10" fill="#8b949e">Feb</text>
 <rect x="281.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="296.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="311.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="310" y="260" font-size="10" fill="#8b949e">Mar</text>
 <rect x="326.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="325" y="260" font-size="10" fill="#8b949e">Mar</text>
 <rect x="341.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="356.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="371.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -64,6 +64,6 @@
 <rect x="776.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <text x="775" y="260" font-size="10" fill="#8b949e">Oct</text>
 <rect x="791.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
-<rect x="806.0" y="204.0" width="12.5" height="36.0" rx="2.5" fill="#3fb950"/>
-<text x="40" y="284" font-size="13" fill="#8b949e">181 contributions in the last 52 weeks</text>
+<rect x="806.0" y="200.4" width="12.5" height="39.6" rx="2.5" fill="#3fb950"/>
+<text x="40" y="284" font-size="13" fill="#8b949e">185 contributions in the last 52 weeks</text>
 </svg>
