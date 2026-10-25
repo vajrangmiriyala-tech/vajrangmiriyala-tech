@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="520" viewBox="0 0 860 520" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<rect x="1" y="1" width="858" height="518" rx="12" fill="#000000" stroke="#30363d" stroke-width="1.5"/><rect x="1" y="1" width="858" height="42" rx="12" fill="#0a0c10"/><rect x="1" y="30" width="858" height="13" fill="#0a0c10"/><circle cx="20" cy="22" r="6" fill="#ff5f57"/><circle cx="38" cy="22" r="6" fill="#febc2e"/><circle cx="56" cy="22" r="6" fill="#28c840"/><text x="430.0" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6e7681">whoami</text>
-<text x="24" y="72" font-size="14" fill="#3fb950"><tspan font-weight="bold">vajrang@github</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#6e7681">$</tspan> whoami</text>
-<rect x="24" y="92" width="400" height="404" rx="8" fill="#0a0c10"/>
+<rect x="1" y="1" width="858" height="518" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/><rect x="1" y="1" width="858" height="42" rx="12" fill="#161b22"/><rect x="1" y="30" width="858" height="13" fill="#161b22"/><circle cx="20" cy="22" r="6" fill="#ff5f57"/><circle cx="38" cy="22" r="6" fill="#febc2e"/><circle cx="56" cy="22" r="6" fill="#28c840"/><text x="430.0" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">whoami</text>
+<text x="24" y="72" font-size="14" fill="#3fb950"><tspan font-weight="bold">vajrang@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$</tspan> whoami</text>
+<rect x="24" y="92" width="400" height="404" rx="8" fill="#161b22"/>
 <text x="36.8" y="129.5" font-size="11" fill="#3c4d6b">:</text>
 <text x="44.0" y="129.5" font-size="11" fill="#3c4d6b">:</text>
 <text x="51.2" y="129.5" font-size="11" fill="#3c4d6b">:</text>
@@ -1319,24 +1319,24 @@
 <text x="389.6" y="467.0" font-size="11" fill="#3c4d6b">:</text>
 <text x="396.8" y="467.0" font-size="11" fill="#3c4d6b">:</text>
 <text x="404.0" y="467.0" font-size="11" fill="#3c4d6b">:</text>
-<rect x="464" y="124" width="107" height="84" rx="8" fill="#0a0c10"/>
-<text x="478" y="158" font-size="22" font-weight="bold" fill="#ff6b35">190</text>
-<text x="478" y="182" font-size="11" fill="#6e7681">contributions</text>
-<rect x="585" y="124" width="107" height="84" rx="8" fill="#0a0c10"/>
+<rect x="464" y="124" width="107" height="84" rx="8" fill="#161b22"/>
+<text x="478" y="158" font-size="22" font-weight="bold" fill="#ff6b35">195</text>
+<text x="478" y="182" font-size="11" fill="#8b949e">contributions</text>
+<rect x="585" y="124" width="107" height="84" rx="8" fill="#161b22"/>
 <text x="599" y="158" font-size="22" font-weight="bold" fill="#ff6b35">12 days</text>
-<text x="599" y="182" font-size="11" fill="#6e7681">current streak</text>
-<rect x="705" y="124" width="107" height="84" rx="8" fill="#0a0c10"/>
+<text x="599" y="182" font-size="11" fill="#8b949e">current streak</text>
+<rect x="705" y="124" width="107" height="84" rx="8" fill="#161b22"/>
 <text x="719" y="158" font-size="22" font-weight="bold" fill="#ff6b35">12 days</text>
-<text x="719" y="182" font-size="11" fill="#6e7681">longest streak</text>
-<rect x="464" y="222" width="107" height="84" rx="8" fill="#0a0c10"/>
+<text x="719" y="182" font-size="11" fill="#8b949e">longest streak</text>
+<rect x="464" y="222" width="107" height="84" rx="8" fill="#161b22"/>
 <text x="478" y="256" font-size="22" font-weight="bold" fill="#ff6b35">4</text>
-<text x="478" y="280" font-size="11" fill="#6e7681">repositories</text>
-<rect x="585" y="222" width="107" height="84" rx="8" fill="#0a0c10"/>
+<text x="478" y="280" font-size="11" fill="#8b949e">repositories</text>
+<rect x="585" y="222" width="107" height="84" rx="8" fill="#161b22"/>
 <text x="599" y="256" font-size="22" font-weight="bold" fill="#ff6b35">2</text>
-<text x="599" y="280" font-size="11" fill="#6e7681">stars earned</text>
-<rect x="705" y="222" width="107" height="84" rx="8" fill="#0a0c10"/>
+<text x="599" y="280" font-size="11" fill="#8b949e">stars earned</text>
+<rect x="705" y="222" width="107" height="84" rx="8" fill="#161b22"/>
 <text x="719" y="256" font-size="22" font-weight="bold" fill="#ff6b35">2</text>
-<text x="719" y="280" font-size="11" fill="#6e7681">followers</text>
+<text x="719" y="280" font-size="11" fill="#8b949e">followers</text>
 <rect x="465.0" y="395.0" width="21.9" height="3.0" rx="2" fill="#3fb950" opacity="0.85"/>
 <rect x="489.9" y="395.0" width="21.9" height="3.0" rx="2" fill="#3fb950" opacity="0.85"/>
 <rect x="514.7" y="395.0" width="21.9" height="3.0" rx="2" fill="#3fb950" opacity="0.85"/>
@@ -1351,6 +1351,6 @@
 <rect x="738.4" y="334.0" width="21.9" height="64.0" rx="2" fill="#3fb950" opacity="0.85"/>
 <rect x="763.3" y="376.7" width="21.9" height="21.3" rx="2" fill="#3fb950" opacity="0.85"/>
 <rect x="788.1" y="395.0" width="21.9" height="3.0" rx="2" fill="#3fb950" opacity="0.85"/>
-<text x="464" y="418" font-size="11" fill="#6e7681">last 14 weeks</text>
+<text x="464" y="418" font-size="11" fill="#8b949e">last 14 weeks</text>
 <rect x="440" y="92" width="396" height="342" rx="8" fill="none"/>
 </svg>
