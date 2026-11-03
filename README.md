@@ -53,8 +53,8 @@
 
 <h3><code>vajrang@github ~ $ ./projects.sh</code></h3>
 
-<a href="https://github.com/vajrangmiriyala-tech/Sonara"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vajrangmiriyala-tech&repo=Sonara&theme=dark&hide_border=true" alt="Sonara" /></a>
-<a href="https://github.com/vajrangmiriyala-tech/jenkins-chatops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vajrangmiriyala-tech&repo=jenkins-chatops&theme=dark&hide_border=true" alt="jenkins-chatops" /></a>
+<a href="https://github.com/vajrangmiriyala-tech/Sonara"><img src="./sonara-card.svg" width="420" alt="Sonara" /></a>
+<a href="https://github.com/vajrangmiriyala-tech/jenkins-jira-sync"><img src="./jenkins-card.svg" width="420" alt="jenkins-jira-sync" /></a>
 
 <h3><code>vajrang@github ~ $ ./trophies.sh</code></h3>
 
