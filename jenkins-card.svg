@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="110" viewBox="0 0 420 110" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect x="1" y="1" width="418" height="108" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="34" font-size="16" font-weight="700" fill="#ff6b35">jenkins-jira-sync</text>
+  <text x="20" y="60" font-size="13" fill="#8b949e">Jenkins build outcomes as Jira comments</text>
+  <text x="20" y="90" font-size="13" fill="#c9d1d9">★ 1</text>
+</svg>
