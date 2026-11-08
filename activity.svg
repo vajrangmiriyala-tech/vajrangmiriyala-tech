@@ -5,8 +5,8 @@
 <rect x="56.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="71.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="86.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="85" y="260" font-size="10" fill="#8b949e">Dec</text>
 <rect x="101.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="100" y="260" font-size="10" fill="#8b949e">Dec</text>
 <rect x="116.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="131.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="146.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -31,14 +31,14 @@
 <rect x="371.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="386.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="401.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<rect x="416.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<rect x="416.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#3fb950"/>
 <text x="415" y="260" font-size="10" fill="#8b949e">May</text>
-<rect x="431.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#3fb950"/>
+<rect x="431.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="446.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="461.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="476.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<text x="475" y="260" font-size="10" fill="#8b949e">Jun</text>
 <rect x="491.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<text x="490" y="260" font-size="10" fill="#8b949e">Jun</text>
 <rect x="506.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="521.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="536.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
@@ -58,12 +58,12 @@
 <rect x="701.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="716.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
 <rect x="731.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
-<rect x="746.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#2a3139"/>
+<rect x="746.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
 <text x="745" y="260" font-size="10" fill="#8b949e">Oct</text>
-<rect x="761.0" y="110.0" width="12.5" height="130.0" rx="2.5" fill="#3fb950"/>
-<rect x="776.0" y="196.7" width="12.5" height="43.3" rx="2.5" fill="#3fb950"/>
-<rect x="791.0" y="217.9" width="12.5" height="22.1" rx="2.5" fill="#3fb950"/>
-<rect x="806.0" y="222.5" width="12.5" height="17.5" rx="2.5" fill="#3fb950"/>
+<rect x="761.0" y="196.7" width="12.5" height="43.3" rx="2.5" fill="#3fb950"/>
+<rect x="776.0" y="217.9" width="12.5" height="22.1" rx="2.5" fill="#3fb950"/>
+<rect x="791.0" y="221.6" width="12.5" height="18.4" rx="2.5" fill="#3fb950"/>
+<rect x="806.0" y="236.0" width="12.5" height="4.0" rx="2.5" fill="#3fb950"/>
 <text x="805" y="260" font-size="10" fill="#8b949e">Nov</text>
-<text x="40" y="284" font-size="13" fill="#8b949e">232 contributions in the last 52 weeks</text>
+<text x="40" y="284" font-size="13" fill="#8b949e">234 contributions in the last 52 weeks</text>
 </svg>
